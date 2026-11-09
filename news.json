@@ -2,6 +2,16 @@
  "updated": "2026-11-09",
  "items": [
   {
+   "id": "test-boca-butter",
+   "date": "2026-11-09",
+   "org": "test",
+   "type": "소식",
+   "title": "성수 카페 디저트 보카도버터, 코코넛 크림·버터 (테스트)",
+   "summary": "자동 업데이트 확인용 테스트 게시물입니다. 날짜는 올린 날로 넣었어요.",
+   "url": "https://blog.naver.com/notfinenu/224469982931",
+   "source": "네이버 블로그"
+  },
+  {
    "id": "pf-언론보도-2026-11-05-0",
    "date": "2026-11-05",
    "org": "foundation",
@@ -4051,5 +4061,8 @@
    "url": "https://www.futurechosun.com/archives/106457",
    "source": "더나은미래"
   }
- ]
+ ],
+ "orgs": {
+  "test": "테스트"
+ }
 }
