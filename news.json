@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-09",
  "items": [
   {
    "id": "pf-언론보도-2026-11-05-0",
@@ -110,6 +110,16 @@
    "summary": "재단법인 피플이 취약계층 자립 지원과 기관 간 상생 협력 모델을 만들고 있습니다.",
    "url": "https://www.newsprime.co.kr/news/article/?no=750975&sec_no=59",
    "source": "프라임경제"
+  },
+  {
+   "id": "pf-notice-980",
+   "date": "2026-10-06",
+   "org": "foundation",
+   "type": "소식",
+   "title": "제34회 미래일터안전보건포럼 사전접수 안내",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=980&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pc-w-2609b",
@@ -302,6 +312,16 @@
    "source": "산재전문가그룹 홈페이지"
   },
   {
+   "id": "pf-notice-964",
+   "date": "2026-05-22",
+   "org": "foundation",
+   "type": "행사",
+   "title": "2026 산업안전보건의 달 안전보건 세미나 - 제33회 미래일터안전보건포럼 개최",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=964&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pc-n-260518",
    "date": "2026-05-18",
    "org": "peoplencom",
@@ -390,6 +410,16 @@
    "summary": "외국인 노동자의 고충을 상담하는 센터를 열었습니다.",
    "url": "https://peoplefoundation.or.kr/new/sub_about/intro_history.php",
    "source": "재단법인 피플 홈페이지"
+  },
+  {
+   "id": "pf-notice-949",
+   "date": "2026-03-25",
+   "org": "foundation",
+   "type": "행사",
+   "title": "[미래일터안전보건포럼] 2026 산업재해근로자의 날 기념 안전보건 컨퍼런스 개최",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=949&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pc-n-260313",
@@ -1322,6 +1352,16 @@
    "source": "인터넷안전보건신문"
   },
   {
+   "id": "pf-notice-892",
+   "date": "2024-12-30",
+   "org": "foundation",
+   "type": "언론보도",
+   "title": "인터넷안전보건신문 신년사 – 이영순 이사장",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=892&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2024-12-26-0",
    "date": "2024-12-26",
    "org": "foundation",
@@ -1510,6 +1550,16 @@
    "summary": "우리은행, 굿피플, 폴리텍 아산·청주·대전캠퍼스, 대전·대구 공공기관의 불용PC를 수거했습니다.",
    "url": "https://www.peoplenc.co.kr/sub1/1_5.php",
    "source": "피플앤컴 홈페이지"
+  },
+  {
+   "id": "pf-notice-871",
+   "date": "2024-09-26",
+   "org": "foundation",
+   "type": "교육",
+   "title": "퇴직연금가입자 교육자료",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=871&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "2024-0923-gb-tenant",
@@ -1780,6 +1830,26 @@
    "summary": "대한사회복지회에 노트북을 기증했습니다.",
    "url": "https://www.peoplenc.co.kr/bbs_sun/files/give/give_202405221524190.jpg",
    "source": "피플앤컴 홈페이지"
+  },
+  {
+   "id": "pf-notice-816",
+   "date": "2024-04-05",
+   "org": "foundation",
+   "type": "행사",
+   "title": "세계산재사망노동자 추모의 날 기념 안전보건 국제컨퍼런스",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=816&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-815",
+   "date": "2024-04-05",
+   "org": "foundation",
+   "type": "행사",
+   "title": "세계산재노동자 추모의 날 기념 국제컨퍼런스 개최 (4월 26일, 국회 의원회관)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=815&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pc-g-240402",
@@ -2062,6 +2132,16 @@
    "source": "뉴스핌"
   },
   {
+   "id": "pf-notice-765",
+   "date": "2023-09-24",
+   "org": "gangbuk",
+   "type": "소식",
+   "title": "재단법인 피플, 서울시 강북노동자복지관 수탁기관 선정",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=765&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "2023-0919-forum28",
    "date": "2023-09-19",
    "org": "foundation",
@@ -2090,6 +2170,16 @@
    "summary": "공개모집을 거쳐 강북노동자복지관 위탁운영 주체가 처음 바뀌었습니다.",
    "url": "https://www.segye.com/newsView/20230914515782",
    "source": "세계일보"
+  },
+  {
+   "id": "pf-notice-756",
+   "date": "2023-09-13",
+   "org": "foundation",
+   "type": "소식",
+   "title": "28회 미래일터안전보건포럼 보도자료",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=756&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "2023-0904-sem2",
@@ -2332,6 +2422,26 @@
    "source": "프라임경제"
   },
   {
+   "id": "pf-notice-680",
+   "date": "2023-05-16",
+   "org": "foundation",
+   "type": "소식",
+   "title": "제25회 미래일터안전보건포럼 보도자료",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=680&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-676",
+   "date": "2023-05-15",
+   "org": "foundation",
+   "type": "행사",
+   "title": "제25회 미래일터안전보건포럼·제19회 보건안전포럼",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=676&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "2023-0428-seminar",
    "date": "2023-04-28",
    "org": "foundation",
@@ -2492,6 +2602,16 @@
    "source": "재단법인 피플 홍보마당"
   },
   {
+   "id": "pf-notice-634",
+   "date": "2023-03-27",
+   "org": "foundation",
+   "type": "소식",
+   "title": "제53회 정기이사회",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=634&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2023-03-22-0",
    "date": "2023-03-22",
    "org": "foundation",
@@ -2640,6 +2760,16 @@
    "summary": "재단법인 피플 2023년 신년사입니다.",
    "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=613&page=1&b_name=notice",
    "source": "재단법인 피플 홈페이지"
+  },
+  {
+   "id": "pf-notice-614",
+   "date": "2023-01-05",
+   "org": "foundation",
+   "type": "행사",
+   "title": "2022년도 안전보건대상 시상식",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=614&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pc-h-2023-01",
@@ -2792,6 +2922,16 @@
    "source": "재단법인 피플 홍보마당"
   },
   {
+   "id": "pf-notice-597",
+   "date": "2022-10-12",
+   "org": "foundation",
+   "type": "행사",
+   "title": "재한 베트남 유학생 체육대회 행사",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=597&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-홍보마당-2022-10-07-0",
    "date": "2022-10-07",
    "org": "foundation",
@@ -2800,6 +2940,16 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_forum/f1_pr_notice.php?mode=view&number=595&page=1&b_name=forum_notice",
    "source": "재단법인 피플 홍보마당"
+  },
+  {
+   "id": "pf-notice-596",
+   "date": "2022-10-07",
+   "org": "foundation",
+   "type": "행사",
+   "title": "23회 미래일터안전보건포럼 개최",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=596&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-홍보마당-2022-10-06-0",
@@ -2830,6 +2980,26 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=573&page=1&b_name=notice",
    "source": "재단법인 피플 홍보마당"
+  },
+  {
+   "id": "pf-notice-575",
+   "date": "2022-09-06",
+   "org": "foundation",
+   "type": "행사",
+   "title": "22회 미래일터안전보건포럼 (2022.9.15, 안전보건공단 남부지사)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=575&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-574",
+   "date": "2022-09-06",
+   "org": "foundation",
+   "type": "소식",
+   "title": "22회 미래일터안전보건포럼 안내 (2022.9.15)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=574&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-홍보마당-2022-08-23-0",
@@ -2870,6 +3040,16 @@
    "summary": "미래일터연구원 기고입니다.",
    "url": "https://www.hani.co.kr/arti/opinion/because/1052592.html",
    "source": "한겨레"
+  },
+  {
+   "id": "pf-notice-561",
+   "date": "2022-08-04",
+   "org": "foundation",
+   "type": "소식",
+   "title": "시스템안전센터 센터장에 채수현 인천경영자총협회 안전담당 이사 임명",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=561&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-홍보마당-2022-07-20-0",
@@ -3082,6 +3262,16 @@
    "source": "재단법인 피플 홍보마당"
   },
   {
+   "id": "pf-notice-480",
+   "date": "2022-04-25",
+   "org": "foundation",
+   "type": "행사",
+   "title": "제19회 미래일터안전보건포럼 4월 26일 개최",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=480&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2022-04-08-0",
    "date": "2022-04-08",
    "org": "foundation",
@@ -3232,6 +3422,26 @@
    "source": "프라임경제"
   },
   {
+   "id": "pf-notice-434",
+   "date": "2022-03-10",
+   "org": "foundation",
+   "type": "소식",
+   "title": "2022년 일터혁신컨설팅 참여 희망 사업장 컨설턴트 활용 안내 (1차)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=434&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-433",
+   "date": "2022-03-04",
+   "org": "foundation",
+   "type": "소식",
+   "title": "국내 최초 '군 안전보건연구센터' 창설 및 센터장 임명",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=433&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2022-02-28-0",
    "date": "2022-02-28",
    "org": "foundation",
@@ -3240,6 +3450,26 @@
    "summary": "",
    "url": "http://www.outsourcing.co.kr/news/articleView.html?idxno=93477",
    "source": "아웃소싱타임스"
+  },
+  {
+   "id": "pf-notice-432",
+   "date": "2022-02-28",
+   "org": "foundation",
+   "type": "소식",
+   "title": "일터혁신 컨설팅 사업 컨설턴트 모집 안내",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=432&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-431",
+   "date": "2022-02-28",
+   "org": "foundation",
+   "type": "소식",
+   "title": "일터혁신 컨설팅 지원 사업 신청 안내",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=431&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-홍보마당-2022-02-26-0",
@@ -3452,6 +3682,16 @@
    "source": "재단법인 피플 언론보도"
   },
   {
+   "id": "pf-notice-154",
+   "date": "2019-05-15",
+   "org": "foundation",
+   "type": "소식",
+   "title": "[참여자모집] 한국-베트남 학생 언어·문화교류 프로그램",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=154&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2018-12-20-0",
    "date": "2018-12-20",
    "org": "foundation",
@@ -3460,6 +3700,16 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_press.php?mode=view&number=189&page=22&b_name=column",
    "source": "재단법인 피플 언론보도"
+  },
+  {
+   "id": "pf-notice-152",
+   "date": "2018-12-20",
+   "org": "foundation",
+   "type": "소식",
+   "title": "[직원채용 공고] 양천구 노동복지센터",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=152&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-언론보도-2018-10-05-0",
@@ -3472,6 +3722,16 @@
    "source": "재단법인 피플 언론보도"
   },
   {
+   "id": "pf-notice-137",
+   "date": "2018-10-05",
+   "org": "foundation",
+   "type": "소식",
+   "title": "'우미드림파인더' 참여자 모집 안내",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=137&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2018-07-18-0",
    "date": "2018-07-18",
    "org": "foundation",
@@ -3480,6 +3740,16 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_press.php?mode=view&number=165&page=22&b_name=column",
    "source": "재단법인 피플 언론보도"
+  },
+  {
+   "id": "pf-notice-128",
+   "date": "2018-07-18",
+   "org": "foundation",
+   "type": "소식",
+   "title": "청년추가고용 장려금 지원사업 (요약)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=128&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-언론보도-2018-06-12-0",
@@ -3510,6 +3780,16 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_press.php?mode=view&number=166&page=23&b_name=column",
    "source": "재단법인 피플 언론보도"
+  },
+  {
+   "id": "pf-notice-129",
+   "date": "2017-08-31",
+   "org": "foundation",
+   "type": "소식",
+   "title": "취업성공패키지 관련 안내",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=129&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-언론보도-2017-08-23-0",
@@ -3552,6 +3832,16 @@
    "source": "재단법인 피플 언론보도"
   },
   {
+   "id": "pf-notice-135",
+   "date": "2017-08-10",
+   "org": "foundation",
+   "type": "행사",
+   "title": "과로사 및 과로자살 방지를 위한 토론회 개최 (2017.8.21)",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=135&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2017-03-24-0",
    "date": "2017-03-24",
    "org": "foundation",
@@ -3580,6 +3870,16 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_press.php?mode=view&number=170&page=24&b_name=column",
    "source": "재단법인 피플 언론보도"
+  },
+  {
+   "id": "pf-notice-133",
+   "date": "2017-03-14",
+   "org": "foundation",
+   "type": "교육",
+   "title": "지속가능경영지도사 양성과정",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=133&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-언론보도-2016-08-01-0",
@@ -3632,6 +3932,16 @@
    "source": "재단법인 피플 언론보도"
   },
   {
+   "id": "pf-notice-132",
+   "date": "2015-06-01",
+   "org": "foundation",
+   "type": "MOU",
+   "title": "[화보] 재단법인 피플, 서울대중국유학생연합회와 사회공헌 협약식",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=132&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
    "id": "pf-언론보도-2015-05-20-0",
    "date": "2015-05-20",
    "org": "foundation",
@@ -3640,6 +3950,26 @@
    "summary": "",
    "url": "https://peoplefoundation.or.kr/new/sub_about/news_press.php?mode=view&number=168&page=26&b_name=column",
    "source": "재단법인 피플 언론보도"
+  },
+  {
+   "id": "pf-notice-131",
+   "date": "2015-05-20",
+   "org": "foundation",
+   "type": "소식",
+   "title": "근로복지공단, 재단법인 피플 2014년 우수기관 선정",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=131&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "pf-notice-130",
+   "date": "2014-12-26",
+   "org": "foundation",
+   "type": "소식",
+   "title": "[화보] 재단법인 피플 후원, 강서FC와 함께한 성탄의 밤",
+   "summary": "",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=130&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
   },
   {
    "id": "pf-언론보도-2014-12-24-0",
