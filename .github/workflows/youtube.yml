@@ -1,0 +1,39 @@
+name: 산재TV 새 영상 자동 수집
+
+on:
+  schedule:
+    # 매일 3시간마다 (한국 시간 기준 0·3·6·9·12·15·18·21시 17분쯤)
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-json
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 산재TV 새 영상 확인
+        run: python scripts/youtube_sync.py
+      - name: 바뀐 내용 저장
+        run: |
+          if git diff --quiet -- news.json; then
+            echo "변경 없음"; exit 0
+          fi
+          git config user.name "people8595"
+          git config user.email "people8595@users.noreply.github.com"
+          git add news.json
+          git commit -m "산재TV 새 영상 자동 추가 $(TZ=Asia/Seoul date +%F)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 5
+          done
+          exit 1
