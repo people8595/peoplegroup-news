@@ -13,7 +13,10 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 CHANNEL_ID = "UCEAErnUNunr3EjphGoA4eEg"
-FEED = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
+FEEDS = [
+    f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}",
+    f"https://www.youtube.com/feeds/videos.xml?playlist_id=UU{CHANNEL_ID[2:]}",
+]
 ROOT = Path(__file__).resolve().parent.parent
 NEWS = ROOT / "news.json"
 REJECTED = ROOT / "rejected.json"
@@ -31,9 +34,21 @@ def video_id_of(url):
 
 
 def fetch_feed():
-    req = urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0 (peoplegroup-news feed reader)"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+    """유튜브 목록 주소가 가끔 일시적으로 404를 내므로, 주소 두 개를 번갈아 몇 번 시도합니다."""
+    import time
+    last = None
+    for attempt in range(3):
+        for url in FEEDS:
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (peoplegroup-news feed reader)"})
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    return r.read()
+            except Exception as e:  # noqa: BLE001
+                last = e
+                print("목록 읽기 실패:", url, e)
+        time.sleep(10)
+    print("유튜브 목록을 이번에는 못 읽었어요. 다음 실행 때 다시 시도합니다:", last)
+    return None
 
 
 def parse(xml_bytes):
@@ -56,6 +71,8 @@ def parse(xml_bytes):
 
 def main(feed_file=None):
     xml_bytes = Path(feed_file).read_bytes() if feed_file else fetch_feed()
+    if not xml_bytes:
+        return
     videos = parse(xml_bytes)
     if not videos:
         print("영상 목록이 비어 있음 - 변경 없음")
