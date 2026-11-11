@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-11",
  "items": [
   {
    "id": "test-boca-butter",
@@ -10,6 +10,26 @@
    "summary": "자동 업데이트 확인용 테스트 게시물입니다. 날짜는 올린 날로 넣었어요.",
    "url": "https://blog.naver.com/notfinenu/224469982931",
    "source": "네이버 블로그"
+  },
+  {
+   "id": "yt-kdvjoIgn0ig",
+   "date": "2026-11-09",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]질병 자체만 승인 나면 끝? 백혈병의 추가 산재! #백혈병합병증 #합병증산재 #혈액암산재",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=kdvjoIgn0ig",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-fk2xklmj7Mo",
+   "date": "2026-11-06",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]혈액암은 고형암(폐암)과 다르다? 백혈병 산재의 인정 기준 #도장공 #고무제조업근로자 #인쇄업근로자",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=fk2xklmj7Mo",
+   "source": "산재TV 노무법인산재 (유튜브)"
   },
   {
    "id": "pf-언론보도-2026-11-05-0",
@@ -72,6 +92,66 @@
    "source": "이로운넷"
   },
   {
+   "id": "yt-67ZZFH7wHvg",
+   "date": "2026-11-04",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]진폐로도 승인 가능하다? COPD와 진폐의 관계 #업무상질병 #질병산재 #만성폐쇄성폐질환 #진폐증산재",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=67ZZFH7wHvg",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-KYsCULY73uA",
+   "date": "2026-11-02",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]나도 신청해볼 수 있을까? COPD 산재 인정 기준 #업무상질병 #질병산재 #만성폐쇄성폐질환",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=KYsCULY73uA",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-V48X3S8BpW8",
+   "date": "2026-10-30",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]복잡한 폐기능검사지 수치, COPD는 이것부터? #PFT폐기능검사 #만성폐쇄성폐질환 #업무상질병 #질병산재",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=V48X3S8BpW8",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-FLvI-93jiwE",
+   "date": "2026-10-28",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]암 산재는 어떻게 진행될까? 직업성 암 산재 과정 #업무상 질병 #산재전문노무사",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=FLvI-93jiwE",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-ZJTK-vUcEO0",
+   "date": "2026-10-26",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]직장 내 발암물질이 만드는 병, 직업성 암의 특징 #업무상 질병 #직업성 암 산재",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=ZJTK-vUcEO0",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-LA7fYeYf5Mw",
+   "date": "2026-10-23",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]업무상 사고보다 까다롭다? 질병 산재의 특징 #업무상 질병 #업무 외 요소 #업무상질병판정위원회",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=LA7fYeYf5Mw",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
    "id": "pc-w-2610",
    "date": "2026-10-22",
    "org": "peoplencom",
@@ -90,6 +170,36 @@
    "summary": "정유석 이사장이 비자 권한(중앙)과 정착 지원(지자체)이 따로 움직이는 이민정책의 한계를 짚은 기고입니다.",
    "url": "https://www.newspim.com/news/view/20261021000683",
    "source": "뉴스핌"
+  },
+  {
+   "id": "yt-BNK565QHTbo",
+   "date": "2026-10-21",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]업무상 사고도 노무사의 조력이 필요할 수 있다? #평균임금 #장해급여",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=BNK565QHTbo",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-6nA2S4pJZBM",
+   "date": "2026-10-19",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]정신질환에 대한 산재는 왜 승인이 어려운걸까? #업무 외 스트레스 #우울증 #공황장애",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=6nA2S4pJZBM",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-sUF2WK9ya88",
+   "date": "2026-10-16",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]정신질환과 자해행위 산재, 어떻게 준비해야할까? #업무상질병 #업무 외 스트레스",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=sUF2WK9ya88",
+   "source": "산재TV 노무법인산재 (유튜브)"
   },
   {
    "id": "2026-1015-forum34",
@@ -122,6 +232,36 @@
    "source": "프라임경제"
   },
   {
+   "id": "yt-BYpwLBkErZQ",
+   "date": "2026-10-14",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]승인이 안 되는 건 아니다? 자해행위 산재 인정 기준 #업무상 정신질환 #산업재해보상보험법 시행령",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=BYpwLBkErZQ",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-6CcXyLydm1w",
+   "date": "2026-10-12",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]유족위로금, 유족급여와 다르다? 진폐 유족위로금 #진폐산재 #진폐유족",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=6CcXyLydm1w",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
+   "id": "yt-R53IkRfZGwc",
+   "date": "2026-10-08",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]사인이 진폐인데 안된다고요? 진폐 유족 판단 기준 #진폐증 #진폐유족연금",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=R53IkRfZGwc",
+   "source": "산재TV 노무법인산재 (유튜브)"
+  },
+  {
    "id": "pf-notice-980",
    "date": "2026-10-06",
    "org": "foundation",
@@ -130,6 +270,16 @@
    "summary": "",
    "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=980&page=1&b_name=notice",
    "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "yt-lGTWTlmNscA",
+   "date": "2026-10-06",
+   "org": "sanjae",
+   "type": "소식",
+   "title": "[산재TV] [산재Shorts]진폐유족도 다 같은게 아니다? 구법과 신법의 차이 #진폐유족연금 #유족급여 #진폐산재",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=lGTWTlmNscA",
+   "source": "산재TV 노무법인산재 (유튜브)"
   },
   {
    "id": "pc-w-2609b",
