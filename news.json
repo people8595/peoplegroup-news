@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-13",
  "items": [
+  {
+   "id": "hearing-pyeongtaek-newsview",
+   "date": "2026-11-13",
+   "org": "foundation",
+   "type": "기증",
+   "title": "편한소리 보청기와 재단법인 피플, 평택시에 보청기 정기 지원",
+   "summary": "편한소리 보청기와 재단법인 피플이 평택시 저소득 가구에 약 3,500만 원 상당의 보청기를 정기적으로 지원하기로 했습니다. 평택시는 읍·면·동 행정복지센터에서 신청을 받아 대상자를 선정할 예정입니다.",
+   "url": "https://www.newsview.co.kr/324168",
+   "source": "뉴스뷰"
+  },
+  {
+   "id": "hearing-pyeongtaek-newspak",
+   "date": "2026-11-13",
+   "org": "foundation",
+   "type": "기증",
+   "title": "편한소리 보청기와 재단법인 피플, 평택시에 보청기 정기 지원",
+   "summary": "편한소리 보청기와 재단법인 피플이 평택시 저소득 가구에 약 3,500만 원 상당의 보청기를 정기적으로 지원하기로 했습니다. 평택시는 읍·면·동 행정복지센터에서 신청을 받아 대상자를 선정할 예정입니다.",
+   "url": "https://www.newspak.co.kr/news/article.html?no=314633",
+   "source": "뉴스팍"
+  },
+  {
+   "id": "foundation-notice-998",
+   "date": "2026-11-12",
+   "org": "foundation",
+   "type": "소식",
+   "title": "외국인고충상담센터 온라인 무료상담",
+   "summary": "외국인고충상담센터가 온라인 무료상담을 안내했습니다.",
+   "url": "https://www.peoplefoundation.or.kr/new/sub_about/news_notice.php?mode=view&number=998&page=1&b_name=notice",
+   "source": "재단법인 피플 공지사항"
+  },
+  {
+   "id": "hearing-pyeongtaek-newspim",
+   "date": "2026-11-12",
+   "org": "foundation",
+   "type": "기증",
+   "title": "재단법인 피플·편한소리보청기, 평택 취약계층에 3500만원 기탁",
+   "summary": "재단법인 피플과 편한소리보청기가 평택시 저소득층과 장애인을 돕기 위해 약 3,500만 원 상당의 현물을 기탁했다. 기탁식은 11월 12일 평택시청에서 열렸으며, 지난 10월 맺은 협약의 첫 후속 사업이다.",
+   "url": "https://www.newspim.com/news/view/20261112000929",
+   "source": "뉴스핌"
+  },
+  {
+   "id": "hearing-pyeongtaek-newsprime",
+   "date": "2026-11-12",
+   "org": "foundation",
+   "type": "기증",
+   "title": "재단법인 피플·편한소리보청기, 평택시에 3500만원 규모 현물 기탁",
+   "summary": "",
+   "url": "https://www.newsprime.co.kr/news/article/?no=754790",
+   "source": "프라임경제"
+  },
+  {
+   "id": "hearing-pyeongtaek-cctoday",
+   "date": "2026-11-12",
+   "org": "foundation",
+   "type": "기증",
+   "title": "재단법인 피플·편한소리보청기, 평택 취약계층에 3500만원 기탁",
+   "summary": "",
+   "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240168",
+   "source": "충청투데이"
+  },
+  {
+   "id": "hearing-pyeongtaek-outsourcing",
+   "date": "2026-11-12",
+   "org": "foundation",
+   "type": "기증",
+   "title": "재단법인 피플·편한소리보청기, 평택시에 3,500만원 상당 현물 기탁",
+   "summary": "",
+   "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=204329",
+   "source": "아웃소싱타임스"
+  },
+  {
+   "id": "pc-w-2611",
+   "date": "2026-11-10",
+   "org": "peoplencom",
+   "type": "소식",
+   "title": "2026년 11월 불용PC 수거 (특구재단 '사랑의 나눔 PC'·신한신용정보)",
+   "summary": "11월 5일 대전 연구개발특구진흥재단 '사랑의 나눔 PC' 사업으로 한국특허전략개발원·기초과학연구원의 불용PC를, 11월 10일 신한신용정보의 불용 전산장비를 수거했습니다.",
+   "url": "https://www.peoplenc.co.kr/sub6/6_2.php",
+   "source": "피플앤컴 홈페이지"
+  },
   {
    "id": "test-boca-butter",
    "date": "2026-11-09",
